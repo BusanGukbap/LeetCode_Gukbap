@@ -1,10 +1,10 @@
 class Solution:
     def maxJumps(self, arr: List[int], d: int) -> int:
         N = len(arr)
-        dp = [0]*N
+        dp = dict()
         
         def dfs(pos):
-            if dp[pos] != 0:
+            if pos in dp:
                 return
 
             dp[pos] = 1
@@ -22,9 +22,9 @@ class Solution:
                 dfs(next_pos)
                 dp[pos] = max(dp[pos], dp[next_pos] + 1)
                 next_pos += 1
-                
+
         for i in range(N):
             dfs(i)
 
 
-        return max(dp)
+        return max(dp.values())
