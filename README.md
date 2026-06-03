@@ -25,6 +25,7 @@ BusanGukbap solved leetcode problems
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ BusanGukbap solved leetcode problems
 | [2126-destroying-asteroids](https://github.com/BusanGukbap/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ BusanGukbap solved leetcode problems
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +83,7 @@ BusanGukbap solved leetcode problems
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BusanGukbap/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/BusanGukbap/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +98,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/BusanGukbap/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
