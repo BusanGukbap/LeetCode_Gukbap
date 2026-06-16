@@ -52,6 +52,7 @@ BusanGukbap solved leetcode problems
 | [0178-rank-scores](https://github.com/BusanGukbap/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/BusanGukbap/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/BusanGukbap/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+| [1407-top-travellers](https://github.com/BusanGukbap/LeetCode/tree/main/1407-top-travellers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
