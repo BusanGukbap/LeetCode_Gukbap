@@ -128,6 +128,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0396-rotate-function](https://github.com/BusanGukbap/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/BusanGukbap/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BusanGukbap/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BusanGukbap/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
