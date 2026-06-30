@@ -18,6 +18,7 @@ BusanGukbap solved leetcode problems
 | [1732-find-the-highest-altitude](https://github.com/BusanGukbap/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BusanGukbap/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/BusanGukbap/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BusanGukbap/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BusanGukbap/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/BusanGukbap/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -76,6 +77,7 @@ BusanGukbap solved leetcode problems
 | [0055-jump-game](https://github.com/BusanGukbap/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BusanGukbap/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/BusanGukbap/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BusanGukbap/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/BusanGukbap/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -88,6 +90,7 @@ BusanGukbap solved leetcode problems
 | [1340-jump-game-v](https://github.com/BusanGukbap/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BusanGukbap/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/BusanGukbap/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BusanGukbap/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/BusanGukbap/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
