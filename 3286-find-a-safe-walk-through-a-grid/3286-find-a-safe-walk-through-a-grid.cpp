@@ -24,6 +24,9 @@ public:
             if (value >= health)
                 continue;
 
+            if (x == m-1 && y == n - 1)
+                break;
+
             for (int dir = 0; dir < 4; dir++) {
                 int nx = x + dx[dir];
                 int ny = y + dy[dir];
@@ -43,8 +46,6 @@ public:
                 pq.push({nvalue, {nx, ny}});
             }
         }
-
-        // cout << maze[m-1][n-1];
 
         if (health > maze[m-1][n-1] && maze[m-1][n-1] != -1)
             return true;
