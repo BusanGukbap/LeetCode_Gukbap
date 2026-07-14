@@ -19,7 +19,6 @@ class Solution:
         for a, b in edges:
             union(a, b)
 
-        # 컴포넌트별 노드 수 / 간선 수 집계
         node_count = defaultdict(int)
         edge_count = defaultdict(int)
 
@@ -28,9 +27,10 @@ class Solution:
         for a, b in edges:
             edge_count[find(a)] += 1
 
-        # complete 판정: 간선 수 == m*(m-1)/2
         result = 0
+        
         for root, m in node_count.items():
-            if edge_count[root] == m * (m - 1) // 2:
+            if edge_count[find(root)] == m*(m-1)/2:
                 result += 1
+        
         return result
