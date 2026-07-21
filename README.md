@@ -90,6 +90,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/BusanGukbap/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BusanGukbap/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/BusanGukbap/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BusanGukbap/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -119,6 +120,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/BusanGukbap/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BusanGukbap/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BusanGukbap/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/BusanGukbap/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -236,6 +238,7 @@ BusanGukbap solved leetcode problems
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BusanGukbap/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -296,4 +299,8 @@ BusanGukbap solved leetcode problems
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BusanGukbap/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BusanGukbap/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BusanGukbap/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
