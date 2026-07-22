@@ -128,6 +128,7 @@ BusanGukbap solved leetcode problems
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/BusanGukbap/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/BusanGukbap/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
@@ -220,6 +221,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/BusanGukbap/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/BusanGukbap/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BusanGukbap/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
