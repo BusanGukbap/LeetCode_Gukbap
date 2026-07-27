@@ -1,11 +1,5 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        n = len(nums)
-
-        ans = 0
-
-        for i in range(n):
-            for j in range(i+1, n):
-                ans = max(ans, (nums[i]-1) * (nums[j]-1))
+        nums.sort(reverse=True)
         
-        return ans
+        return (nums[0]-1) * (nums[1] - 1)
