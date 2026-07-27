@@ -41,6 +41,7 @@ BusanGukbap solved leetcode problems
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BusanGukbap/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BusanGukbap/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BusanGukbap/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -136,6 +137,7 @@ BusanGukbap solved leetcode problems
 | [3120-count-the-number-of-special-characters-i](https://github.com/BusanGukbap/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3614-process-string-with-special-operations-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/BusanGukbap/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
@@ -145,6 +147,7 @@ BusanGukbap solved leetcode problems
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BusanGukbap/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/BusanGukbap/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BusanGukbap/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BusanGukbap/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -259,6 +262,7 @@ BusanGukbap solved leetcode problems
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BusanGukbap/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
