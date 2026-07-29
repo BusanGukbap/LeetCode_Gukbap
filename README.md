@@ -69,6 +69,7 @@ BusanGukbap solved leetcode problems
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/BusanGukbap/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BusanGukbap/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BusanGukbap/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -141,6 +142,7 @@ BusanGukbap solved leetcode problems
 | [3499-maximize-active-section-with-trade-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3614-process-string-with-special-operations-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/BusanGukbap/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
@@ -199,6 +201,7 @@ BusanGukbap solved leetcode problems
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BusanGukbap/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BusanGukbap/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BusanGukbap/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -282,6 +285,7 @@ BusanGukbap solved leetcode problems
 | [1189-maximum-number-of-balloons](https://github.com/BusanGukbap/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/BusanGukbap/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BusanGukbap/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -328,4 +332,8 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
