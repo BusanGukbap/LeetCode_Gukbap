@@ -103,6 +103,7 @@ BusanGukbap solved leetcode problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BusanGukbap/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/BusanGukbap/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/BusanGukbap/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -136,6 +137,7 @@ BusanGukbap solved leetcode problems
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BusanGukbap/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/BusanGukbap/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BusanGukbap/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/BusanGukbap/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -197,6 +199,7 @@ BusanGukbap solved leetcode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/BusanGukbap/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BusanGukbap/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
