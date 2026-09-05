@@ -61,6 +61,7 @@ BusanGukbap solved leetcode problems
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/BusanGukbap/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BusanGukbap/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ BusanGukbap solved leetcode problems
 | [3699-number-of-zigzag-arrays-i](https://github.com/BusanGukbap/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BusanGukbap/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
