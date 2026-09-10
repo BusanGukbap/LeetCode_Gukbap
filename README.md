@@ -243,6 +243,7 @@ BusanGukbap solved leetcode problems
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BusanGukbap/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BusanGukbap/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
