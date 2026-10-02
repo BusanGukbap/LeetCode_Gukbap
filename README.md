@@ -156,6 +156,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/BusanGukbap/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BusanGukbap/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -255,6 +256,7 @@ BusanGukbap solved leetcode problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/BusanGukbap/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0396-rotate-function](https://github.com/BusanGukbap/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0486-predict-the-winner/) | Medium |
@@ -415,5 +417,10 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
