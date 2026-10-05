@@ -158,6 +158,7 @@ BusanGukbap solved leetcode problems
 | [0020-valid-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0856-score-of-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BusanGukbap/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BusanGukbap/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -317,6 +318,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/BusanGukbap/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -418,6 +420,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
