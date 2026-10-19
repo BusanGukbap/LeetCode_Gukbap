@@ -105,6 +105,7 @@ BusanGukbap solved leetcode problems
 | [0584-find-customer-referee](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0584-find-customer-referee/) | Easy |
 | [0607-sales-person](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0607-sales-person/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1148-article-views-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1148-article-views-i/) | Easy |
 | [1407-top-travellers](https://github.com/BusanGukbap/LeetCode/tree/main/1407-top-travellers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
