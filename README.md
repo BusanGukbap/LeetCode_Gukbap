@@ -37,6 +37,7 @@ BusanGukbap solved leetcode problems
 | [2196-create-binary-tree-from-descriptions](https://github.com/BusanGukbap/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/BusanGukbap/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/BusanGukbap/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/BusanGukbap/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/BusanGukbap/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -129,6 +130,7 @@ BusanGukbap solved leetcode problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BusanGukbap/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/BusanGukbap/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BusanGukbap/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -150,6 +152,7 @@ BusanGukbap solved leetcode problems
 | [2089-find-target-indices-after-sorting-array](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/BusanGukbap/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BusanGukbap/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
