@@ -176,6 +176,7 @@ BusanGukbap solved leetcode problems
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1871-jump-game-vii](https://github.com/BusanGukbap/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BusanGukbap/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
