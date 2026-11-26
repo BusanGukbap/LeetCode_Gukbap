@@ -19,6 +19,7 @@ BusanGukbap solved leetcode problems
 | [1331-rank-transform-of-an-array](https://github.com/BusanGukbap/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/BusanGukbap/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/BusanGukbap/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -250,6 +251,7 @@ BusanGukbap solved leetcode problems
 | [0486-predict-the-winner](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/BusanGukbap/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -298,6 +300,7 @@ BusanGukbap solved leetcode problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/BusanGukbap/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/BusanGukbap/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/BusanGukbap/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -442,4 +445,12 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/0022-generate-parentheses/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
