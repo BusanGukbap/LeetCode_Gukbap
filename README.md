@@ -116,6 +116,7 @@ BusanGukbap solved leetcode problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/BusanGukbap/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/BusanGukbap/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3360-stone-removal-game/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/BusanGukbap/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BusanGukbap/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -256,6 +257,7 @@ BusanGukbap solved leetcode problems
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BusanGukbap/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3360-stone-removal-game/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BusanGukbap/LeetCode_Gukbap/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
